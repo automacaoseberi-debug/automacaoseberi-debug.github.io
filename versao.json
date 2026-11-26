@@ -1,0 +1,7 @@
+{
+  "versao": "1.2.0",
+  "build": 3,
+  "build_minimo": 0,
+  "apk": "https://github.com/automacaoseberi-debug/automacaoseberi-debug.github.io/releases/latest/download/app-release.apk",
+  "notas": "- Horário de início e fim com vários dias e total de horas\n- Visto do supervisor com assinatura\n- Setores dentro de setores (ex.: Utilidades)\n- Nome completo do usuário\n- Fotos com descrição nos relatórios\n- Componentes (motor, bomba...) nos equipamentos"
+}
